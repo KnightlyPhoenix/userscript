@@ -5,8 +5,8 @@
 // @author          KnightlyPhoenix (https://github.com/knightlyphoenix)
 // @namespace       https://github.com/KnightlyPhoenix/userscript
 // @supportURL      https://github.com/KnightlyPhoenix/userscript/issues
-// @updateURL       https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.txt
-// @downloadURL     https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.txt
+// @updateURL       https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.js
+// @downloadURL     https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.js
 // @license         GPL-3.0
 // @match           http*://*/*
 // ==/UserScript==
