@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Force allow full screen on Youtube embed videos
 // @description     Force allow full screen on Youtube embed videos
-// @version         1.0.0
+// @version         1.0.1
 // @author          KnightlyPhoenix (https://github.com/knightlyphoenix)
 // @namespace       https://github.com/KnightlyPhoenix/userscript
 // @supportURL      https://github.com/KnightlyPhoenix/userscript/issues
@@ -9,6 +9,7 @@
 // @downloadURL     https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.js
 // @license         GPL-3.0
 // @match           https://jegged.com/*
+
 // ==/UserScript==
 const qSA = x => document.querySelectorAll(x);
 const replaceIframe = (iframe) => {
