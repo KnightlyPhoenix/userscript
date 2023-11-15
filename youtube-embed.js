@@ -8,7 +8,7 @@
 // @updateURL       https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.js
 // @downloadURL     https://raw.githubusercontent.com/KnightlyPhoenix/userscript/main/youtube-embed.js
 // @license         GPL-3.0
-// @match           http*://*/*
+// @match           https://jegged.com/*
 // ==/UserScript==
 const qSA = x => document.querySelectorAll(x);
 const replaceIframe = (iframe) => {
